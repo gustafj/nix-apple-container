@@ -1,4 +1,4 @@
 {
-  "apple_container": "1.2.2",
+  "apple_container": "1.3.0",
   "nix_builder": "v2-nix2.35.2"
 }
